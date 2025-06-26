@@ -13,4 +13,4 @@ var Palindrome = function(x){
     return ispalindrome;
 
 }
-console.log(Palindrome(x));
+console.log(Palindrome(6121));
